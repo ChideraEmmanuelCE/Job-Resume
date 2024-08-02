@@ -1,0 +1,690 @@
+
+@media (max-width: 1060px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .sub-heading {
+        max-width: 90%;
+    }
+
+    .heading {
+        font-size: 2rem;
+    }
+    .heading-paragraph {
+        font-size: 1.4rem;
+        margin-top: -2rem;
+    }
+    .header {
+        max-width: 90%;
+    }
+
+    .heading--img {
+        height: 6rem;
+        width: 6rem; 
+        margin-left: 70%; 
+    }
+
+    .sub--headings {
+        max-width: 90%;
+    }
+    
+    h2 {
+        font-size: 1.9rem;
+    } 
+
+    .experience {
+     font-size: 1rem;
+    }
+
+    ol {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+
+    a {
+        font-size: 1rem;
+    }
+
+    a:hover {
+        font-weight: 400;
+        font-size: 1rem;
+        transition: all 0.3s;
+    }
+
+    .projects {
+        column-gap: 2rem;
+        row-gap: 1.8rem;
+        margin-right: 50%;
+    }
+
+    .project:hover {
+        font-size: 1rem;
+    }
+
+    .logo {
+        font-size: 2.6rem;
+    }
+       
+    .button-title {
+        margin-top: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button--title {
+        padding-bottom: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button-name {
+     font-size: 1rem;
+    }
+}
+
+@media (max-width: 870px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .heading {
+        font-size: 1.8rem;
+    }
+
+    .heading-paragraph {
+        font-size: 1.2rem;
+        margin-top: -2.2rem;
+    }
+
+    .heading--img {
+        height: 6rem;
+        width: 6rem; 
+        margin-left: 80%; 
+    }
+   
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .experience {
+        font-size: 0.85rem;
+    }
+
+    ol {
+        font-size: 0.85rem;
+        margin-left: -1.3rem;
+    }
+
+    p {
+        font-size: 0.85rem;
+    }
+
+    a {
+        font-size: 0.85rem;
+    }
+
+    a:hover {
+        font-weight: 400;
+        font-size: 1rem;
+        transition: all 0.3s;
+    }
+
+    .button-title {
+        margin-top: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button--title {
+        padding-bottom: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button-name {
+     font-size: 0.9rem;
+    }
+
+    .projects {
+        column-gap: 1.8rem;
+        row-gap: 1.6rem;
+        margin-right: 50%;
+    }
+
+    .project:hover {
+        font-size: 0.8rem;
+    }
+
+    .logo {
+        font-size: 2.4rem;
+    }
+}
+
+@media (max-width: 795px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .heading {
+        font-size: 1.6rem;
+    }
+
+    .heading-paragraph {
+        font-size: 1rem;
+        margin-top: -2.2rem;
+    }
+
+    .heading--img {
+        height: 6rem;
+        width: 6rem; 
+        margin-left: 80%; 
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    .experience {
+        font-size: 0.65rem;
+    }
+
+   ol {
+        font-size: 0.65rem;
+        margin-left: -1.7rem;
+    }
+
+    .description {
+        margin-left: -2.5rem;
+        font-size: 0.5rem;
+    }
+    p {
+        font-size: 0.65rem;
+    }
+
+    a {
+        font-size: 0.6rem;
+    }
+    
+    a:hover {
+        font-weight: 400;
+        font-size: 0.8rem;
+        transition: all 0.3s;
+    }
+
+    .button-name  {
+        font-size: 0.7rem;
+    }
+
+    .projects {
+        column-gap: 1.4rem;
+        row-gap: 1.4rem;
+        margin-right: 50%;
+    }
+
+    .project:hover {
+        font-size: 0.6rem;
+    }
+
+    .sub-heading {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 3.6rem;
+        row-gap: 3.2rem;
+    }
+
+    .logo {
+        font-size: 2.2rem;
+    }
+}
+
+@media (max-width: 719px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .heading {
+        font-size: 1.4rem;
+    }
+    
+    .heading-paragraph {
+        font-size: 1rem;
+        margin-top: -2rem;
+    }
+
+    .heading--img {
+        height: 4.5rem;
+        width: 4.5rem; 
+        margin-left: 80%; 
+    }
+   
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    .experience {
+        font-size: 0.55rem;
+    }
+
+    ol {
+        font-size: 0.55rem;
+    }
+
+    p {
+        font-size: 0.55rem;
+    }
+
+    a {
+        font-size: 0.55rem;
+    }
+
+    a:hover {
+        font-weight: 400;
+        font-size: 0.75rem;
+        transition: all 0.3s;
+    }
+
+    .projects {
+        column-gap: 1.2rem;
+        row-gap: 1.2rem;
+        margin-right: 50%;
+    }
+
+    .project:hover {
+        font-size: 0.8rem;
+    }
+
+    .button-title {
+        margin-top: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button--title {
+        padding-bottom: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button-name {
+     font-size: 0.7rem;
+    }
+
+    .logo {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 644px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .heading {
+        font-size: 1.2rem;
+    }
+
+    .heading-paragraph {
+        font-size: 1rem;
+        margin-top: -2rem;
+    }
+
+    .heading--img {
+        height: 4rem;
+        width: 4rem; 
+        margin-left: 100%; 
+    }
+    
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    .experience {
+        font-size: 0.5rem;
+        line-height: 0.8rem;
+    }
+
+    ol {
+        font-size: 0.5rem;
+    }
+    
+    p {
+        font-size: 0.5rem;
+    }
+
+    a {
+        font-size: 0.5rem;
+    }
+
+    a:hover {
+        font-weight: 400;
+        font-size: 0.7rem;
+        transition: all 0.3s;
+    }
+
+    .projects {
+        column-gap: 1rem;
+        row-gap: 1rem;
+        margin-right: 50%;
+    }
+
+    .project:hover {
+        font-size: 0.8rem;
+    }
+    
+    .button-title {
+        margin-top: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button--title {
+        padding-bottom: 1.4rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button-name {
+     font-size: 0.6rem;
+    }
+
+    .logo {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 569px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .heading {
+        font-size: 1rem;
+    }
+
+    .heading-paragraph {
+        font-size: 0.8rem;
+        margin-top: -2rem;
+    }
+
+    .heading--img {
+        height: 3.5rem;
+        width: 3.5rem; 
+        margin-left: 90%; 
+    }
+
+    h2 {
+        font-size: 1rem;
+    }
+
+    .experience {
+        font-size: 0.5rem;
+    }
+
+    ol {
+        font-size: 0.5rem;
+    }
+    
+    p {
+        font-size: 0.5rem;
+    }
+
+    a {
+        font-size: 0.5rem;
+    }
+
+    a:hover {
+        font-weight: 400;
+        font-size: 0.5rem;
+        transition: all 0.3s;
+    }
+
+    .projects {
+        column-gap: 0.8rem;
+        row-gap: 0.8rem;
+        margin-right: 50%;
+    }
+
+    .project:hover {
+        font-size: 0.8rem;
+    }
+
+    .button-title {
+        margin-top: 0.3rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button--title {
+        padding-bottom: 1.2rem;
+        padding-left: 2.4rem;
+    }
+    
+    .button-name {
+     font-size: 0.45rem;
+    }
+
+    .sub-heading {
+        column-gap: 3rem;
+        row-gap: 2.6rem;
+    }
+
+    .logo {
+        font-size: 1.4rem;
+        margin-bottom: -0.3rem;
+    }
+
+    .project:hover {
+        font-size: 0.5rem;
+    }
+}
+
+@media (max-width: 477px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .heading {
+        font-size: 0.8rem;
+    }
+
+    .heading-paragraph {
+        font-size: 0.8rem;
+        margin-top: -2rem;
+    }
+
+    .heading--img {
+        height: 3rem;
+        width: 3rem; 
+        margin-left: 95%; 
+    }
+
+    h2 {
+        font-size: 0.8rem;
+    }
+
+    .experience {
+        font-size: 0.5rem;
+    }
+
+    ol {
+        font-size: 0.5rem;
+    }
+    
+    p {
+        font-size: 0.5rem;
+    }
+
+    a {
+        font-size: 0.5rem;
+    }
+
+    a:hover {
+        /* font-weight: 400; */
+        font-size: 0.5rem;
+        transition: all 0.3s;
+    }
+    
+    .button-title {
+        margin-top: 0.3rem;
+         padding-left: 1.4rem; 
+    }
+    
+    .button--title {
+        padding-bottom: 1.2rem;
+        padding-left: 1.4rem;
+    }
+    
+    .button-name {
+     font-size: 0.45rem;
+    }
+
+    .email {
+        line-break: anywhere;
+    }
+
+    .good {
+      margin-left: -1.8rem;
+    }
+
+    .sub-heading {
+        column-gap: 2.8rem;
+        row-gap: 2.6rem;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 431px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .heading {
+        font-size: 0.7rem;
+    }
+
+    .heading-paragraph {
+        font-size: 0.6rem;
+    }
+
+    .heading--img {
+        height: 2.5rem;
+        width: 2.5rem; 
+        margin-left: 95%; 
+    }
+    
+    h2 {
+        font-size: 0.7rem;
+    }
+
+    .experience {
+        font-size: 0.5rem;
+    }
+
+    ol {
+        font-size: 0.5rem;
+        margin-left: -2rem;
+    }
+    
+    p {
+        font-size: 0.5rem;
+    }
+
+    a {
+        font-size: 0.5rem;
+    }
+    
+    .logo {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 364px) {
+    .container {
+        max-width: 364px;
+    }
+
+    .heading {
+        font-size: 0.6rem;
+    }
+
+    .heading-paragraph {
+        font-size: 0.5rem;
+        margin-top: -2rem;
+    }
+
+    .heading--img {
+        height: 3rem;
+        width: 3rem; 
+        margin-left: 95%; 
+    }
+
+    h2 {
+        font-size: 0.6rem;
+    }
+
+    .experience {
+        font-size: 0.5rem;
+    }
+
+    ol {
+        font-size: 0.5rem;
+    }
+    
+    p {
+        font-size: 0.5rem;
+    }
+
+    a {
+        font-size: 0.5rem;
+    }
+
+    .sub-heading {
+        column-gap: 2rem;
+        row-gap: 1.8rem;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 326px) {
+    .container {
+        max-width: 326px;
+    }
+
+    .heading {
+        font-size: 0.55rem;
+    }
+
+    .heading-paragraph {
+        margin-top: -2rem;
+    }
+    
+    h2 {
+        font-size: 0.55rem;
+    }
+
+    .experience {
+        font-size: 0.5rem;
+    }
+
+    ol {
+        font-size: 0.5rem;
+    }
+    
+    p {
+        font-size: 0.5rem;
+    }
+
+    a {
+        font-size: 0.5rem;
+    }
+    
+    .sub-heading {
+        column-gap: 1.6rem;
+        row-gap: 1.2rem;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+}

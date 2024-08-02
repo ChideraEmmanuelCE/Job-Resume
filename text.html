@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    .women {
+      font: caption;
+      text-transform: uppercase;
+      color: grey;
+      text-align: center;
+      font-size: 40px;
+      background: linear-gradient(0deg, black, rgb(90, 49, 49));
+      border-radius: 25px;
+    }
+    .glow::before,
+    .glow::after {
+      content: "";
+      position: absolute;
+      left: -2px;
+      top: -2px;
+      background: linear-gradient(
+        45deg,
+        green,
+        orange,
+        pink,
+        #069039,
+        #0202dd,
+        #dc3318,
+        #bf1a1c,
+        #c5b30c,
+        #09de
+      );
+      background-size: 4000px;
+      width: calc(100% - 5px);
+      height: calc(100% - 5px);
+      z-index: -1;
+      animation: animate 15s linear infinite;
+    }
+
+    @keyframes animate {
+      0% {
+        background-position: 0, 0;
+      }
+      50% {
+        background-position: 400% 0;
+      }
+      100% {
+        background-position: 0 0;
+      }
+    }
+
+    .glow::after {
+      filter: blur(40px);
+      opacity: 10%;
+    }
+   
+    h2 {
+      color: grey;
+      font-family: sans-serif;
+    }
+    p {
+      color: chocolate;
+      font-family: sans-serif;
+    }
+  </style>
+
+    <div class="women glow">
+      <h1>chidera emmanuel believed he can, and he did it. ce</h1>
+    </div>
+    <h2>
+      He did all this by himself, after trying and learning for lots of months,
+      days, and he never gave up till he achieved what he wanted. long story
+      short, i did it.
+    </h2>
+    <p>Thanks to the guys on youtube.</p>
+      <p> Copyright &copy;</p>
+  </body>
+</html>
